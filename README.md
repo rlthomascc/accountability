@@ -1,4 +1,5 @@
 # Real Estate Accountability
+Created By: Randy L. Thomas
 
 ## Table of Contents
 
